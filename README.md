@@ -4,7 +4,7 @@ Simple C# loader with PHP & MySQL integration.
 
 ## Notes
 
-* This project is still in development as of July 26th, 2018.
+* This project is still in development as of July 29th, 2018.
 
 ## Authors
 
