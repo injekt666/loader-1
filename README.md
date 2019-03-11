@@ -8,7 +8,7 @@ Simple C# loader with PHP & MySQL integration.
 
 ## Authors
 
-* **Justin** - *Initial work* - [name](https://github.com/name)
+* **Charlie** - *Initial work* - [name](https://github.com/name)
 
 ## Libraries
 
