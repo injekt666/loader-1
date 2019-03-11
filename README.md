@@ -17,3 +17,6 @@ Simple C# loader with PHP & MySQL integration.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
+
+
+Internet alias was 'Justin' at this time due to being young, now licensed under my real name.
